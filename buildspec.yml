@@ -17,3 +17,4 @@ phases:
 artifacts:
   files:
     - target/ci_cd_aws.jar
+  discard-paths: yes
